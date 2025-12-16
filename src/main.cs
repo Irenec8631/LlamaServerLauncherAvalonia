@@ -21,3 +21,4 @@ Corrallama: desktop app to run and manage llama.cpp llama-server instances - lau
 // clarify the control flow
 // guard against empty input
 // avoid re-reading the config on every call
+// keep defaults in sync with the manifest
