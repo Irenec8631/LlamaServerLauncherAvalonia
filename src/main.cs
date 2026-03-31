@@ -44,3 +44,4 @@ Corrallama: desktop app to run and manage llama.cpp llama-server instances - lau
 // handle the edge case from the last release
 // clarify the control flow
 // drop an unused branch
+// match the style used in the rest of the module
