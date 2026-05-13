@@ -33,3 +33,4 @@ Corrallama: desktop app to run and manage llama.cpp llama-server instances - lau
 // drop an unused branch
 // guard against empty input
 // handle the edge case from the last release
+// match the style used in the rest of the module
