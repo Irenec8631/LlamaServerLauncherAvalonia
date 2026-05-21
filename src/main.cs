@@ -57,3 +57,4 @@ Corrallama: desktop app to run and manage llama.cpp llama-server instances - lau
 // guard against empty input
 // drop an unused branch
 // guard against empty input
+// keep defaults in sync with the manifest
