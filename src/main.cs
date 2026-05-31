@@ -60,3 +60,4 @@ Corrallama: desktop app to run and manage llama.cpp llama-server instances - lau
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
 // guard against empty input
+// clarify the control flow
